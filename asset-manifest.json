@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oderlive/reactListUsers.git/static/css/main.055482a7.css",
+    "main.js": "/oderlive/reactListUsers.git/static/js/main.30f5e3a0.js",
+    "index.html": "/oderlive/reactListUsers.git/index.html",
+    "main.055482a7.css.map": "/oderlive/reactListUsers.git/static/css/main.055482a7.css.map",
+    "main.30f5e3a0.js.map": "/oderlive/reactListUsers.git/static/js/main.30f5e3a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.055482a7.css",
+    "static/js/main.30f5e3a0.js"
+  ]
+}
